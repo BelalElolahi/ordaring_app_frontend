@@ -1,0 +1,16 @@
+.flex-container{
+    display: flex !important;
+}
+.btn{
+    background-color: red;
+    color: white;
+}
+
+select{
+box-shadow: none;
+border-color: black !important;    
+}
+
+.modalImg{
+    height: 400px !important;
+}
