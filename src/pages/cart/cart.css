@@ -1,0 +1,26 @@
+.cartTitle{
+    font-size: 30px;
+}
+
+.cartQuantity{
+    display: inline;
+}
+
+.fa-plus{
+    color: green;
+    margin: 5px;
+}
+
+.fa-minus{
+    color: red;
+    margin: 5px;
+}
+
+.cartImage{
+    height: 80px;
+    width: 80px;
+}
+
+.fa-trash{
+    color: red;
+}
